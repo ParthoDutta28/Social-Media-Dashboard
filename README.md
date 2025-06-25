@@ -1,1 +1,1 @@
-# Social-Media-Dashboard
+# SocialMediaDashboard
